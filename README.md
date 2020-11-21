@@ -34,7 +34,7 @@ English | [简体中文](https://github.com/getgridea/gridea/blob/master/README-
 
 **[CHANGELOG](https://github.com/getgridea/gridea/blob/master/CHANGELOG.md)**  
 
-👏  Welcome to use **Gridea** ！  
+👏  Welcome to use **Gridea_yh** ！  
 
 ✍️  **Gridea** A static blog writing client. You can use it to record your life, mood, knowledge, notes and ideas...
 
@@ -47,7 +47,7 @@ English | [简体中文](https://github.com/getgridea/gridea/blob/master/README-
 
 📋  Customize menus and even create external link menus  
 
-💻  Use this client on **Windows** or **MacOS**  or **Linux**
+💻  Use this client on **Windows10** or **MacOS**  or **Linux**
 
 🌎  Use **Github Pages** or **Coding Pages** to show the world that more platforms will be supported in the future  
 

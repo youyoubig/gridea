@@ -66,7 +66,7 @@
 
 😘 Enjoy~
 
-## 开发
+## 开发sf
 如果你想贡献代码，请提前参阅[贡献指南](https://github.com/getgridea/gridea/wiki/%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97)
 ``` shell
 $ # Node version > v10.0.0 is requied
@@ -77,7 +77,7 @@ $ yarn electron:serve
 $ yarn electron:build
 ```
 
-## 联系
+## 联系sf
 [Telegram 频道](https://t.me/joinchat/AAAAAEj82_lma0Y1wmyqUQ) | [Telegram 群组](https://t.me/joinchat/IDY0ahRqb8NPodv95BNpBg)  | QQ 1 群: 970332209（已满）| QQ 2 群: 923131213 | 作者推特: @EryouHao
 
 ## 示例截图
@@ -85,10 +85,10 @@ $ yarn electron:build
   <img src="./files/themes.png">
 </div>
 
-## 贡献
+## 贡献sf
 我们欢迎任何形式的贡献。你可以用 [pull requests](https://github.com/getgridea/gridea/pulls) 或 [issues](https://github.com/getgridea/gridea/issues) 的方式提交任何想法。  
 
-## 支持
+## 支持sf
 <div>
   <img src="./files/wechat.png" width="240px">
 </div>
